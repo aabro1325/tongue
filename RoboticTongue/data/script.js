@@ -330,7 +330,7 @@ function hyoglossusLR(element) { //Maritza
     for(var i = 12; i<14; i++){
 		updateSliderPWM(document.getElementById("slider"+i.toString()));
 	}
-}
+} 
 
 function styloglossusLR(element) {//Maritza
     var sliderNumber = element.id.charAt(element.id.length-2)+element.id.charAt(element.id.length-1);
@@ -378,5 +378,5 @@ function backToHomePg() { //Maritza
   of this software and associated documentation files.
   
   The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
+  copies or substantial portions of the Software..
 */
